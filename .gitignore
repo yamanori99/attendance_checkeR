@@ -1,0 +1,24 @@
+# 出力ファイル / Output files
+出席状況_結果.csv
+*.csv
+
+# Excel
+*.xlsx
+
+# R関連ファイル / R related files
+.Rhistory
+.RData
+.Ruserdata
+
+# システムファイル / System files
+.DS_Store
+Thumbs.db
+
+# エディタファイル / Editor files
+*.swp
+*.swo
+*~
+
+# 個人情報を含む可能性のあるファイル / Files that may contain personal information
+*_個人情報*
+*_personal*
