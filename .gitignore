@@ -1,6 +1,5 @@
 # 出力ファイル / Output files
-出席状況_結果.csv
-*.csv
+/data/*
 
 # Excel
 *.xlsx
